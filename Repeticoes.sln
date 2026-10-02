@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repeticoes.While", "Repeticoes.While\Repeticoes.While.csproj", "{A07E5C0F-16C5-4CC1-9F30-906DAE675C1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A07E5C0F-16C5-4CC1-9F30-906DAE675C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07E5C0F-16C5-4CC1-9F30-906DAE675C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07E5C0F-16C5-4CC1-9F30-906DAE675C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07E5C0F-16C5-4CC1-9F30-906DAE675C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
