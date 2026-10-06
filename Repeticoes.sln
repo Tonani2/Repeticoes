@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repeticoes.AtividadeWhile2"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repeticoes.AtividadeWhile3", "Repeticoes.AtividadeWhile3\Repeticoes.AtividadeWhile3.csproj", "{C7DA6F26-CAC9-4F02-99B7-6A962EE59E7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repeticoes.AtividadeFor1", "Repeticoes.AtividadeFor1\Repeticoes.AtividadeFor1.csproj", "{14C77BB0-54FC-499B-8F06-B832CB2F7DDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{C7DA6F26-CAC9-4F02-99B7-6A962EE59E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7DA6F26-CAC9-4F02-99B7-6A962EE59E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7DA6F26-CAC9-4F02-99B7-6A962EE59E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14C77BB0-54FC-499B-8F06-B832CB2F7DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C77BB0-54FC-499B-8F06-B832CB2F7DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C77BB0-54FC-499B-8F06-B832CB2F7DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C77BB0-54FC-499B-8F06-B832CB2F7DDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
